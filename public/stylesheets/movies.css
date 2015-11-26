@@ -1,0 +1,20 @@
+.ms-large-font {
+	font-size: large;
+}
+.ms-xlarge-font {
+	font-size: x-large;
+}
+.carousel-left-arrow {
+	margin-top: 80px;
+	font-size: xx-large;
+	text-align: center;
+}
+.carousel-right-arrow {
+	margin-top: 70px;
+	font-size: xx-large;
+	text-align: center;
+}
+.thumbnail img { 
+	height: 200px;
+	width: 175px;
+}
